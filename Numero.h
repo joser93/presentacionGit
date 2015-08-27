@@ -1,0 +1,3 @@
+clase Numero{
+	int num;
+};
