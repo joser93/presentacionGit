@@ -4,4 +4,7 @@ public:
 	int getNum(){
 		return num;
 	}
+	void setNum(int num){
+		this->num=num;
+	}
 };
